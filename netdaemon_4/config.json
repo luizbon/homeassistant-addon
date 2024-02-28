@@ -15,7 +15,8 @@
   ],
   "boot": "auto",
   "map": [
-    "config:rw"
+    "config:rw",
+    "share:rw"
   ],
   "ingress": false,
   "hassio_api": true,
